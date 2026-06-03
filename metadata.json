@@ -1,0 +1,6 @@
+{
+  "name": "Hebrew Vocabulary Memorization Game",
+  "description": "An interactive full-stack learning app with multiple-choice questions, spelling games, and AI mnemonic stories with dynamic illustrations to memorize 29 Hebrew words easily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
